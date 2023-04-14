@@ -26,7 +26,7 @@
     "express-rate-limit": "^5.5.0",
     "fido2-lib": "^3.4.0",
     "get-random-values": "^2.1.0",
-    "helmet": "^4.6.0",
+    "helmet": "^6.1.5",
     "lodash.chunk": "^4.2.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
